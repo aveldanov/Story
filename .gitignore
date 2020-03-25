@@ -1,0 +1,5 @@
+#comment or *.txt -> all txt files will be ignored
+
+.DS_Store
+secret.txt
+
